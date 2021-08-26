@@ -302,12 +302,27 @@ nav ul li {
         -ms-flex: 1 1 20rem;
             flex: 1 1 20rem;
     margin-top: 2rem;
+    height: 2rem;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
   }
   nav ul {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    juestify-content: center;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
     -webkit-box-flex: 1;
         -ms-flex: 1 1 60rem;
             flex: 1 1 60rem;
-    margin: 2rem 0rem;
+    margin: 12rem 0rem;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
   }
   .intro-text {
     margin: 5rem;
