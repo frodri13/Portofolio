@@ -359,6 +359,9 @@ nav ul li {
     margin: 5rem;
     text-align: center;
   }
+  .intro-images {
+    text-align: center;
+  }
   .intro-social {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -372,8 +375,16 @@ nav ul li {
   .intro-social a {
     margin: 2rem;
   }
-  .intro-images {
-    text-align: center;
+  .pin-my-hike,
+  .acebook-rails,
+  .makerBnB,
+  .todo,
+  .photo {
+    -webkit-box-flex: 1;
+        -ms-flex: 1 1 50rem;
+            flex: 1 1 50rem;
+    width: 100%;
+    height: 100%;
   }
 }
 /*# sourceMappingURL=styles.css.map */
