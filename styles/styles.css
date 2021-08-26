@@ -264,6 +264,37 @@ nav ul li {
   }
 }
 
+.projects {
+  width: 90%;
+  margin: auto;
+  min-height: 90vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  juestify-content: space-between;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  text-align: center;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.projects h2 {
+  margin: 5rem;
+}
+
+.pin-my-hike,
+.acebook-rails,
+.makerBnB,
+.todo,
+.photo {
+  -webkit-box-flex: 1;
+      -ms-flex: 1 1 40rem;
+          flex: 1 1 40rem;
+}
+
 @media screen and (max-width: 1332px) {
   html {
     font-size: 53%;
