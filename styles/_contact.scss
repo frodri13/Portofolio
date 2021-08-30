@@ -1,5 +1,6 @@
 .form-section {
   min-height: 80vh;
+  justify-content: center;
   align-items: center;
   @include flex(center, center, row);
   margin-top: 3rem;
