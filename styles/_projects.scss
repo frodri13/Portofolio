@@ -16,4 +16,9 @@
 .todo,
 .photo {
   flex: 1 1 40rem;
+  img {
+    height: 30rem;
+    width: 50rem;
+    object-fit: contain;
+  }
 }
