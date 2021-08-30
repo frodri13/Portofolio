@@ -397,6 +397,10 @@ footer h4 {
           flex: 1 1 40rem;
 }
 
+footer li {
+  margin-right: 10rem;
+}
+
 @media screen and (max-width: 1332px) {
   html {
     font-size: 53%;
