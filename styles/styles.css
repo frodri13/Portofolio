@@ -293,7 +293,8 @@ nav ul li {
 .acebook-rails,
 .makerBnB,
 .todo,
-.photo {
+.photo,
+.beatmaker {
   -webkit-box-flex: 1;
       -ms-flex: 1 1 40rem;
           flex: 1 1 40rem;
@@ -303,7 +304,8 @@ nav ul li {
 .acebook-rails img,
 .makerBnB img,
 .todo img,
-.photo img {
+.photo img,
+.beatmaker img {
   height: 30rem;
   width: 50rem;
   -o-object-fit: contain;
@@ -494,7 +496,8 @@ footer li {
   .acebook-rails,
   .makerBnB,
   .todo,
-  .photo {
+  .photo,
+  .beatmaker {
     -webkit-box-flex: 1;
         -ms-flex: 1 1 50rem;
             flex: 1 1 50rem;
