@@ -294,7 +294,8 @@ nav ul li {
 .makerBnB,
 .todo,
 .photo,
-.beatmaker {
+.beatmaker,
+.travelly {
   -webkit-box-flex: 1;
       -ms-flex: 1 1 40rem;
           flex: 1 1 40rem;
@@ -305,7 +306,8 @@ nav ul li {
 .makerBnB img,
 .todo img,
 .photo img,
-.beatmaker img {
+.beatmaker img,
+.travelly img {
   height: 30rem;
   width: 50rem;
   -o-object-fit: contain;
@@ -497,7 +499,8 @@ footer li {
   .makerBnB,
   .todo,
   .photo,
-  .beatmaker {
+  .beatmaker,
+  .travelly {
     -webkit-box-flex: 1;
         -ms-flex: 1 1 50rem;
             flex: 1 1 50rem;
