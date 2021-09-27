@@ -295,7 +295,8 @@ nav ul li {
 .todo,
 .photo,
 .beatmaker,
-.travelly {
+.travelly,
+.coloors {
   -webkit-box-flex: 1;
       -ms-flex: 1 1 40rem;
           flex: 1 1 40rem;
@@ -307,7 +308,8 @@ nav ul li {
 .todo img,
 .photo img,
 .beatmaker img,
-.travelly img {
+.travelly img,
+.coloors img {
   height: 30rem;
   width: 50rem;
   -o-object-fit: contain;
@@ -500,7 +502,8 @@ footer li {
   .todo,
   .photo,
   .beatmaker,
-  .travelly {
+  .travelly,
+  .coloors {
     -webkit-box-flex: 1;
         -ms-flex: 1 1 50rem;
             flex: 1 1 50rem;
