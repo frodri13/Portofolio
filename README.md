@@ -4,7 +4,7 @@ Thi project contains my portfolio with my main projects.
 
 ## How to view?
 
-If you would like to visit it, it is currently being hosted in Netlify at `https://sharp-allen-d04524.netlify.app/index.html`.
+If you would like to visit it, it is currently being hosted in Netlify by [clicking here](https://fabio-rodriguez.netlify.app/).
 
 ### Further functionalities
 
